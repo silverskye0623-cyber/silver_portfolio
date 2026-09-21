@@ -32,7 +32,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-dim text-base sm:text-lg max-w-3xl leading-relaxed sm:leading-[30px]">
-        Hello, and welcome to my website! I am a passionate and experienced fullstack developer. With a deep commitment to the craft of coding and a drive to continuously improve my skills, I have dedicated my career to building high-quality, efficient, and user-friendly applications. Over the years, I have honed my expertise in creating powerful software solutions, and I’m excited to share my journey, skills, and the technologies I use to make every project a success.
+        Hello, and welcome to my website! We are the passionate and experienced fullstack developers. With a deep commitment to the craft of coding and a drive to continuously improve our skills, we have dedicated our careers to building high-quality, efficient, and user-friendly applications. Over the years, we have honed our expertise in creating powerful software solutions, and we’re excited to share our journey, skills, and the technologies we use to make every project a success.
       </motion.p>
 
       <div className="mt-8 grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 sm:mt-12 sm:gap-6 lg:gap-8">

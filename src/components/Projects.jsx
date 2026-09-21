@@ -116,16 +116,16 @@ const Journey = () => {
   return (
     <div>
       <motion.div variants={textVariant()}>
-        <h2 className={styles.sectionHeadTextLight}>My Journey</h2>
+        <h2 className={styles.sectionHeadTextLight}>Our Journey</h2>
       </motion.div>
 
       <div className="w-full flex">
         <motion.p
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-base sm:text-lg max-w-3xl leading-relaxed sm:leading-[30px]">
-          My journey into the world of software development began early. As a child, I was fascinated by how computers worked. My first encounter with programming was when I tried to modify a simple website in HTML, and that moment sparked something inside me. What started as an experiment soon turned into a passion. I dove deeper into learning programming languages, studying computer science, and exploring different types of development.
-Throughout my career, I have focused on backend development, which has allowed me to master various technologies and tools. Backend development involves building software that runs directly on a device’s operating system, rather than using a cross-platform framework or web-based solutions. This gives me the ability to create more optimized, performance-driven applications that deliver the best experience for users.
-As I navigated through my career, I quickly realized that being a good developer isn’t just about knowing how to write code. It’s about understanding the problem at hand, finding efficient solutions, and delivering products that meet users' needs while keeping performance in mind. I strive to create software that is not only functional but also intuitive, beautiful, and responsive.
+          Our journey into the world of software development began early. As a child, we were fascinated by how computers worked. Our first encounter with programming was when we tried to modify a simple website in HTML, and that moment sparked something inside us. What started as an experiment soon turned into a passion. We dove deeper into learning programming languages, studying computer science, and exploring different types of development.
+Throughout our career, we have focused on backend development, which has allowed us to master various technologies and tools. Backend development involves building software that runs directly on a device’s operating system, rather than using a cross-platform framework or web-based solutions. This gives us the ability to create more optimized, performance-driven applications that deliver the best experience for users.
+As we navigated through our career, we quickly realized that being a good developer isn’t just about knowing how to write code. It’s about understanding the problem at hand, finding efficient solutions, and delivering products that meet users' needs while keeping performance in mind. We strive to create software that is not only functional but also intuitive, beautiful, and responsive.
         </motion.p>
       </div>
 

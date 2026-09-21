@@ -68,7 +68,7 @@ npm run preview
 
 ## Authors
 
-👤 **Kyle Michael**
+👤 **Silver Light**
 
 - GitHub: [@silverskye0623-cyber](https://github.com/silverskye0623-cyber)
 

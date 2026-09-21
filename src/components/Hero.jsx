@@ -12,10 +12,10 @@ const Hero = () => (
     <div className={`${styles.paddingX} mx-auto w-full max-w-7xl pb-40 pt-32 sm:pt-40 lg:pt-44`}>
       <div className="max-w-4xl">
         <h1 className="break-words font-mova text-[clamp(2.5rem,8vw,5.625rem)] font-extrabold uppercase leading-[1.05] text-eerieBlack sm:text-jetGray">
-          Kyle Michael
+          Silver Light
         </h1>
         <p className="mt-5 text-base font-medium leading-relaxed text-eerieBlack sm:text-xl lg:text-[26px]">
-          <span className="block">Senior Software Engineer</span>
+          <span className="block">Software Engineering Team</span>
           <span className="block">Full Stack Development</span>
         </p>
       </div>

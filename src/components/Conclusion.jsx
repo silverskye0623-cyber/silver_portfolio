@@ -124,22 +124,22 @@ const Conclusion = () => {
           variants={fadeIn('', '', 0.1, 1)}
           className="mt-4 text-taupe text-base sm:text-lg max-w-3xl leading-relaxed sm:leading-[30px] space-y-5">
           <p>
-            I bring together full-stack development and AI/ML experience to build
+            We bring together full-stack development and AI/ML experience to build
             applications that solve practical problems. From responsive web
-            interfaces and mobile apps to backend services, I focus on clear user
+            interfaces and mobile apps to backend services, We focus on clear user
             experiences, reliable performance, and maintainable code.
           </p>
           <p>
-            My stack includes React, TypeScript, ASP.NET, C#, Node.js, PHP, and
-            PostgreSQL, with Python supporting my AI and machine learning work.
-            My AI/ML experience spans predictive modeling, natural language
+            Our stack includes React, TypeScript, ASP.NET, C#, Node.js, PHP, and
+            PostgreSQL, with Python supporting our AI and machine learning work.
+            Our AI/ML experience spans predictive modeling, natural language
             processing, and workflow automation. By connecting these capabilities
-            to applications through RESTful APIs, I turn data and models into
+            to applications through RESTful APIs, We turn data and models into
             features people can use in their everyday work.
           </p>
           <p>
             Whether you need a new application, a stronger backend, or AI features
-            for an existing product, I would welcome the opportunity to discuss
+            for an existing product, We would welcome the opportunity to discuss
             your goals. Get in touch, and let us turn your next idea into useful,
             dependable software.
           </p>
